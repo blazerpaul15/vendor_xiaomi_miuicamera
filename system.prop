@@ -7,3 +7,29 @@ persist.vendor.camera.privapp.list=com.android.camera
 
 # MiuiCamera
 ro.miui.notch=1
+ro.product.mod_device=vili_global
+
+# Log Tags
+persist.log.tag.HapticCompat=S
+persist.log.tag.CAM_CameraUtil=S
+persist.log.tag.OneHopHelper=S
+persist.log.tag.DeviceUtils=S
+persist.log.tag.CAM_BoostFrameworkImpl=S
+persist.log.tag.CAM_MiCamera2=S
+persist.log.tag.CAM_MiCameraCompat=S
+persist.log.tag.CHIGPU=S
+persist.log.tag.CHINODEUTIL=S
+persist.log.tag.CHIAIIE=S
+persist.log.tag.CHIANCSAT=S
+persist.log.tag.CHIMIMOVIE=S
+persist.log.tag.NODESLL=S
+persist.log.tag.CHIMEMCPY=S
+persist.log.tag.CHI_NODE_MIBOKEH=S
+persist.log.tag.CHI_NODE_MISEGMENT=S
+persist.log.tag.EISV2=S
+persist.log.tag.EISV3=S
+persist.log.tag.MiaInterface=S
+persist.log.tag.MiAlgoEngine=S
+persist.log.tag.MiAILab=S
+persist.log.MI_Algo_JNI=S
+persist.log.tag.MiA_N_MIAIDeblur=S

@@ -1,8 +1,9 @@
-# All unpinned blobs below are extracted from cupid V14.0.2.0.TLCMICM
+# All unpinned blobs below are extracted from vili V14.0.4.0.TKDMIXM
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|4be083925aae1931c9740c687e715c937d10cdf5
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk|fd1aa3f001839bf59393988b55b96db1cc708831
 system/etc/public.libraries-xiaomi.txt
 system/lib64/libcamera_algoup_jni.xiaomi.so
 system/lib64/libcamera_mianode_jni.xiaomi.so
 system/lib64/libmicampostproc_client.so
 system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
+vendor/etc/camera/camera_cnf.txt
